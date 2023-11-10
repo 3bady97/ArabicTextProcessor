@@ -1,4 +1,4 @@
-# ArabicTextProcessor - معالج النصوص العربي
+<h2 align="center"> ArabicTextProcessor - معالج النصوص العربي </h2>
 
 <h3 align="center"> مشروع بسيط يعمل علي كتابة النصوص العربية بدون نقاط </h3>
 
